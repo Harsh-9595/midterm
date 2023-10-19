@@ -1,0 +1,89 @@
+body
+{
+    width:100%;
+    max-width: 1200px;
+    margin: auto;
+    font: italic small-caps bold 12px/30px Georgia, serif;
+}
+.structural
+{
+    margin:10px;
+    padding:10x;
+}
+h1
+{
+    color:rgb(250, 0, 250);
+    font:sans-serif;
+    font-size: larger;
+}
+h2
+{
+    margin: 20px;
+    padding-top: 20px;
+    color:rgb(4, 4, 4);
+    font:10px, 'Courier New', Courier, monospace;
+    font-size: large;
+}
+main
+{
+    height: 70vh;
+}
+img
+{
+    border:3px solid balck;
+    width:90%;
+    height:80%
+}
+figure
+{
+   
+    background-color: rgb(226, 129, 235);
+    width:45%;
+    height:60%;
+    margin: auto;
+    padding: 10px;
+}
+#image1
+{
+    
+    border-color: blueviolet;
+    float:left;
+}
+#C1{
+    border: 5px solid purple;
+}
+#C2 { 
+    border: 5px solid purple;
+ }
+
+#image2
+{
+    float:right;
+}
+section
+{
+    clear: both;
+}
+figcaption
+{
+    font-weight: bold;
+    font-size: large;
+    color:rgb(143, 14, 169);
+    padding:5px;
+}
+a{
+    color:rgb(25, 13, 254);
+}
+a:hover
+{
+    color:brown;
+}
+li{
+    list-style-type: disc;
+    line-height: 15px;
+}
+header,footer
+{
+    padding: 10px;
+    background-color: rgb(226, 160, 231);
+}
